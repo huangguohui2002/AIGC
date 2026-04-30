@@ -1,0 +1,53 @@
+{
+	"name": "nodejs-express-jwt",
+	"version": "1.0.2",
+	"author": "Mark Khramko <markkhramko@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"start": "babel-node ./app/app.js",
+		"dev": "cross-env NODE_ENV=development nodemon",
+		"production": "cross-env NODE_ENV=production babel-node ./app/app.js",
+		"db:migrate": "babel-node ./migrator/start.js",
+		"db:seed": "babel-node ./migrator/seeder.js",
+		"db:init": "npm run db:migrate && npm run db:seed",
+		"lint": "eslint",
+		"lint:fix": "eslint --fix ."
+	},
+	"dependencies": {
+		"axios": "^1.13.6",
+		"bcrypt": "^5.0.0",
+		"body-parser": "^1.20.1",
+		"core-js": "^2.6.11",
+		"cors": "^2.8.5",
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"express-routes-mapper": "^1.0.2",
+		"helmet": "^3.22.0",
+		"jsonwebtoken": "^9.0.0",
+		"multer": "^2.1.1",
+		"mysql2": "^3.14.5",
+		"pug": "^3.0.3",
+		"sequelize": "^6.37.3"
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.23.0",
+		"@babel/core": "^7.23.3",
+		"@babel/node": "^7.22.19",
+		"@babel/preset-env": "^7.23.3",
+		"@eslint/js": "^9.10.0",
+		"babel-plugin-module-resolver": "^5.0.0",
+		"cross-env": "^7.0.3",
+		"eslint": "^9.10.0",
+		"globals": "^15.9.0",
+		"nodemon": "^3.1.5"
+	},
+	"description": "Node.js Express REST API boilerplate with JWT Authentication and support for MySQL and PostgreSQL.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MarkKhramko/nodejs-express-jwt.git"
+	},
+	"homepage": "https://github.com/MarkKhramko/nodejs-express-jwt#readme",
+	"bugs": {
+		"url": "https://github.com/MarkKhramko/nodejs-express-jwt/issues"
+	}
+}

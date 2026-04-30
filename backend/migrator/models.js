@@ -1,0 +1,15 @@
+require('#models/User');
+require('#models/DisabledRefreshToken');
+require('#models/SmsCode');
+require('#models/PointsPackage');
+require('#models/Order');
+require('#models/Transaction');
+require('#models/Generation');
+require('#models/Invite');
+require('#models/Announcement');
+require('#models/Config');
+require('#models/AiModel');
+require('#models/AIProvider');
+require('#models/ExampleCategory');
+require('#models/ExampleItem');
+require('#models/ExampleImage');

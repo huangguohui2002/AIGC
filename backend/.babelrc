@@ -1,0 +1,18 @@
+{
+	"plugins": [
+		["babel-plugin-module-resolver", {
+			"root": ["./"],
+			"alias": {
+				"#configs": "./configs",
+				"#controllers": "./app/controllers",
+				"#facades": "./app/facades",
+				"#factories": "./app/factories",
+				"#models":"./app/models",
+				"#policies":"./app/policies",
+				"#routes": "./app/routes",
+				"#services":"./app/services",
+				"#utils":"./app/utils"
+			}
+		}]
+	]
+}

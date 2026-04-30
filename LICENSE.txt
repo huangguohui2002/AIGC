@@ -1,0 +1,54 @@
+Public Interest and Non-Commercial Use License
+
+Copyright (c) 2026 huangguohui2002
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this project and associated documentation files, to use, copy, modify, and distribute the project, subject to the following conditions:
+
+1. Permitted Use
+
+This project may only be used for public interest, educational, research, learning, and other non-commercial purposes.
+
+Permitted uses include, but are not limited to:
+
+- Personal learning and technical research;
+- Educational use by schools, courses, laboratories, or academic institutions;
+- Public interest projects operated by non-profit organizations;
+- Free and non-profit public services;
+- Non-commercial modification, copying, and distribution, provided that this license and the copyright notice are retained.
+
+2. Prohibited Commercial Use
+
+Without prior written permission from the copyright holder, no individual, organization, or company may use this project or any derivative works for commercial purposes.
+
+Prohibited commercial uses include, but are not limited to:
+
+- Selling, renting, leasing, sublicensing, or reselling this project or derivative works;
+- Using this project in commercial SaaS products, paid websites, paid applications, mini programs, or other paid services;
+- Integrating this project into commercial products, commercial platforms, or commercial solutions;
+- Providing custom development, deployment, operation, maintenance, consulting, or other services to commercial clients based on this project;
+- Operating services based on this project through advertising, membership fees, subscriptions, paid features, data monetization, or other profit-making methods;
+- Any other use primarily intended for profit, business advantage, or commercial benefit.
+
+3. Redistribution
+
+Any copy, modification, or distribution of this project or derivative works must retain the original copyright notice and this license text.
+
+You may not remove, obscure, or alter the copyright notice, license notice, or usage restrictions contained in this project.
+
+4. Commercial Licensing
+
+For commercial use, closed-source integration, commercial deployment, or any use beyond the scope of this license, you must obtain prior written authorization from the copyright holder.
+
+Please contact the copyright holder for commercial licensing.
+
+5. No Warranty
+
+This project is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+
+In no event shall the copyright holder or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with this project or the use of this project.
+
+7. Acceptance
+
+By using, copying, modifying, distributing, or deploying this project, you agree to comply with the terms of this license.

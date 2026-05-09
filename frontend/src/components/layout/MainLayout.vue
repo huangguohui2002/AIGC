@@ -368,7 +368,6 @@ import {
   BookOpenIcon,
   XMarkIcon,
 } from "@heroicons/vue/24/outline";
-import contactQr from "@/assets/lx.png";
 import logo from "@/assets/logo.jpg";
 import { APP_NAME } from "@/config/app";
 import { useUserStore } from "../../stores/userStore.js";
